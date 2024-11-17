@@ -1,1 +1,4 @@
-# Lab3-Analizator_wynikow
+# Analizator wyników
+Prediction model was created using linear regression.
+
+Results are saved in pipeline artifacts.
